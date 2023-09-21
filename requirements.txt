@@ -12,7 +12,7 @@ cffi==1.13.2
 chardet==3.0.4
 Click==7.0
 constantly==15.1.0
-cryptography==41.0.0
+cryptography==41.0.4
 debtcollector==1.22.0
 dnspython==1.16.0
 fake-useragent==0.1.11
